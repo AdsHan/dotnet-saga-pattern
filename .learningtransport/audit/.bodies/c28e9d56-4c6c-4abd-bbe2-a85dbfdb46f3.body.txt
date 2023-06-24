@@ -1,0 +1,2 @@
+<?xml version="1.0"?><CreateProductStartStep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/SagaPattern.API.Application.Messages.Sagas.CreateProduct.Steps"><ProductId>1</ProductId><Price>0</Price><Quantity>0</Quantity><BaseResult xmlns:int32="Int32"><Errors>
+</Errors><int32:Response>0</int32:Response></BaseResult></CreateProductStartStep>

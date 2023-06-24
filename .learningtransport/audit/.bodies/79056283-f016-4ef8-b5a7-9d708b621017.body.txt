@@ -1,0 +1,1 @@
+<?xml version="1.0"?><CreateProductCheckInventoryStep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:baseType="SagaPattern.API.Common.Saga" xmlns="http://tempuri.net/SagaPattern.API.Application.Messages.Sagas.CreateProduct.Steps"><SagaId>e6531e27-dd95-4345-a087-c133e43012c5</SagaId></CreateProductCheckInventoryStep>

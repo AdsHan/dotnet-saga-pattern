@@ -1,0 +1,20 @@
+{
+  "NServiceBus.MessageId": "9bfb78fe-3be9-4139-bd5d-b029017cde58",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.ConversationId": "ab2e3cb1-7bb4-4ff1-a0d2-b029017cde5c",
+  "NServiceBus.CorrelationId": "9bfb78fe-3be9-4139-bd5d-b029017cde58",
+  "NServiceBus.ReplyToAddress": "YourEndpointName",
+  "NServiceBus.OriginatingMachine": "DESKTOP-H3453VF",
+  "NServiceBus.OriginatingEndpoint": "YourEndpointName",
+  "$.diagnostics.originating.hostid": "4c5dbd36c1b87f9b6d49ca95b3d15c22",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "SagaPattern.API.Application.Messages.Sagas.CreateProduct.Steps.CreateProductStartStep, SagaPattern.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "7.8.2",
+  "NServiceBus.TimeSent": "2023-06-22 23:06:42:105050 Z",
+  "NServiceBus.ProcessingStarted": "2023-06-22 23:06:42:267702 Z",
+  "NServiceBus.ProcessingEnded": "2023-06-22 23:06:42:451910 Z",
+  "$.diagnostics.hostid": "4c5dbd36c1b87f9b6d49ca95b3d15c22",
+  "$.diagnostics.hostdisplayname": "DESKTOP-H3453VF",
+  "NServiceBus.ProcessingMachine": "DESKTOP-H3453VF",
+  "NServiceBus.ProcessingEndpoint": "YourEndpointName"
+}

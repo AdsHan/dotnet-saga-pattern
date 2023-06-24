@@ -1,0 +1,1 @@
+<?xml version="1.0"?><CreateProductSaveProductStep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/SagaPattern.API.Application.Messages.Sagas.CreateProduct.Steps"><SagaId>51d5808d-b7c0-43d6-ad52-66734418dfef</SagaId></CreateProductSaveProductStep>

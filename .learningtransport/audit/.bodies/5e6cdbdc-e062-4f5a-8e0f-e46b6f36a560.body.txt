@@ -1,0 +1,1 @@
+<?xml version="1.0"?><CreateProductValidateProductStep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/SagaPattern.API.Application.Messages.Sagas.CreateProduct.Steps"><SagaId>6f51dfc2-8569-4812-a26a-5173b44b7feb</SagaId></CreateProductValidateProductStep>

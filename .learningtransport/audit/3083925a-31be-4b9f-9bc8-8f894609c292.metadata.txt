@@ -1,0 +1,23 @@
+{
+  "NServiceBus.MessageId": "be7960d7-b581-40df-bfeb-b02901859941",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.RelatedTo": "9c5c8668-e786-4250-b3b1-b0290185544e",
+  "NServiceBus.ConversationId": "facda2b1-824c-4b09-aaad-b02901855452",
+  "NServiceBus.CorrelationId": "9c5c8668-e786-4250-b3b1-b0290185544e",
+  "NServiceBus.OriginatingSagaId": "375dacf0-9889-3fa2-f24d-1e9bdb6bc701",
+  "NServiceBus.OriginatingSagaType": "SagaPattern.API.Application.Messages.Sagas.CreateProduct.CreateProductSaga, SagaPattern.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.ReplyToAddress": "YourEndpointName",
+  "NServiceBus.OriginatingMachine": "DESKTOP-H3453VF",
+  "NServiceBus.OriginatingEndpoint": "YourEndpointName",
+  "$.diagnostics.originating.hostid": "4c5dbd36c1b87f9b6d49ca95b3d15c22",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "SagaPattern.API.Application.Messages.Sagas.CreateProduct.Steps.CreateProductValidateProductStep, SagaPattern.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "7.8.2",
+  "NServiceBus.TimeSent": "2023-06-22 23:38:29:189250 Z",
+  "NServiceBus.ProcessingStarted": "2023-06-22 23:38:29:277505 Z",
+  "NServiceBus.ProcessingEnded": "2023-06-22 23:38:30:824556 Z",
+  "$.diagnostics.hostid": "4c5dbd36c1b87f9b6d49ca95b3d15c22",
+  "$.diagnostics.hostdisplayname": "DESKTOP-H3453VF",
+  "NServiceBus.ProcessingMachine": "DESKTOP-H3453VF",
+  "NServiceBus.ProcessingEndpoint": "YourEndpointName"
+}
